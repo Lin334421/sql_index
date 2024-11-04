@@ -1,0 +1,3 @@
+-- major_tech_firms_devp_sha_v1 通过owner repo sha 获取 某个commit 目的是找出author 在github上的信息和commit 关联的pr
+-- github_login_email_experiences
+-- OPTIMIZE TABLE 模版
